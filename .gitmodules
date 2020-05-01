@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/90lucasgabriel/go-barber-backend
+[submodule "web"]
+	path = web
+	url = https://github.com/90lucasgabriel/go-barber-web
