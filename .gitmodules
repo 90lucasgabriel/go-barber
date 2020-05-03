@@ -4,3 +4,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/90lucasgabriel/go-barber-web
+[submodule "app"]
+	path = app
+	url = https://github.com/90lucasgabriel/go-barber-app
