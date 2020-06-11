@@ -1,3 +1,4 @@
 app/
 backend/
 web/
+.DS_Store
